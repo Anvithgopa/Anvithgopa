@@ -1,4 +1,4 @@
-👋 Hi there, I'm Anvith Gopa!
+👋 Hi there, I'm Anvithgopa!
 
 🎓 Currently pursuing my Bachelor's in Computer Science Engineering at VCET, I'm deeply passionate about the intersection of cybersecurity and software development.
 
