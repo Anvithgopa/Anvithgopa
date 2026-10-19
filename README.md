@@ -1,4 +1,4 @@
-### Hey there! I'm Anvith Gopa 👋
+### Hey there! I'm Anvithgopa 👋
 
 I'm a **Zoho Solution Architect & AI / Backend Engineer** based in India. Currently leading an engineering team at **QScript**, building intelligent automation workflows, LLM-powered integrations, and scalable cloud systems.
 
